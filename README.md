@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zachary Blackburn.</h1>
-<h3 align="center">A junior software engineer and Marine Corps veteran.</h3>
-
-- 🌱 I’m currently learning **C and C++.**
-
-- 💬 Ask me about **React.JS and Django.**
+<h3 align="center">A software engineer and Marine Corps veteran.</h3>
 
 - 📫 How to reach me **zacharyblackburn@outlook.com**
 
 - 📄 See my LinkedIn [https://linkedin.com/in/zachary-blackburn/](https://linkedin.com/in/zachary-blackburn/)
-
-- ⚡ Fun fact **I'm a Kentucky Colonel!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
